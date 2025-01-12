@@ -13,3 +13,4 @@ Install the python libraries
   To take a selfie, you need to smile. Always remember to *** **SMILE** cause you live only once ***.
 
 # Output
+![1](https://github.com/user-attachments/assets/9aabb009-d6a5-40cc-bd8f-77f56308d8b7)![2](https://github.com/user-attachments/assets/bd81c737-9f26-4f15-8699-dd20df06693d)
